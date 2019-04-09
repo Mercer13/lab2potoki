@@ -1,0 +1,35 @@
+E:\шарага\Оптимізація обчислень\lab2\lab2\bin\Debug\lab2.exe.config
+E:\шарага\Оптимізація обчислень\lab2\lab2\bin\Debug\lab2.exe
+E:\шарага\Оптимізація обчислень\lab2\lab2\bin\Debug\lab2.pdb
+E:\шарага\Оптимізація обчислень\lab2\lab2\obj\Debug\lab2.csprojAssemblyReference.cache
+E:\шарага\Оптимізація обчислень\lab2\lab2\obj\Debug\lab2.csproj.CoreCompileInputs.cache
+E:\шарага\Оптимізація обчислень\lab2\lab2\obj\Debug\lab2.exe
+E:\шарага\Оптимізація обчислень\lab2\lab2\obj\Debug\lab2.pdb
+D:\lab2\lab2\bin\Debug\lab2.exe.config
+D:\lab2\lab2\bin\Debug\lab2.exe
+D:\lab2\lab2\bin\Debug\lab2.pdb
+D:\lab2\lab2\obj\Debug\lab2.csprojAssemblyReference.cache
+D:\lab2\lab2\obj\Debug\lab2.csproj.CoreCompileInputs.cache
+D:\lab2\lab2\obj\Debug\lab2.exe
+D:\lab2\lab2\obj\Debug\lab2.pdb
+C:\Users\apiva\OneDrive\Рабочий стол\l\lab2\bin\Debug\lab2.exe.config
+C:\Users\apiva\OneDrive\Рабочий стол\l\lab2\bin\Debug\lab2.exe
+C:\Users\apiva\OneDrive\Рабочий стол\l\lab2\bin\Debug\lab2.pdb
+C:\Users\apiva\OneDrive\Рабочий стол\l\lab2\obj\Debug\lab2.csprojAssemblyReference.cache
+C:\Users\apiva\OneDrive\Рабочий стол\l\lab2\obj\Debug\lab2.csproj.CoreCompileInputs.cache
+C:\Users\apiva\OneDrive\Рабочий стол\l\lab2\obj\Debug\lab2.exe
+C:\Users\apiva\OneDrive\Рабочий стол\l\lab2\obj\Debug\lab2.pdb
+D:\Vodnik\Оптимізація обчислень\l\lab2\bin\Debug\lab2.exe.config
+D:\Vodnik\Оптимізація обчислень\l\lab2\bin\Debug\lab2.exe
+D:\Vodnik\Оптимізація обчислень\l\lab2\bin\Debug\lab2.pdb
+D:\Vodnik\Оптимізація обчислень\l\lab2\obj\Debug\lab2.csprojAssemblyReference.cache
+D:\Vodnik\Оптимізація обчислень\l\lab2\obj\Debug\lab2.csproj.CoreCompileInputs.cache
+D:\Vodnik\Оптимізація обчислень\l\lab2\obj\Debug\lab2.exe
+D:\Vodnik\Оптимізація обчислень\l\lab2\obj\Debug\lab2.pdb
+D:\Vodnik\Оптимізація обчислень\Labka2\lab2\bin\Debug\lab2.exe.config
+D:\Vodnik\Оптимізація обчислень\Labka2\lab2\bin\Debug\lab2.exe
+D:\Vodnik\Оптимізація обчислень\Labka2\lab2\bin\Debug\lab2.pdb
+D:\Vodnik\Оптимізація обчислень\Labka2\lab2\obj\Debug\lab2.csprojAssemblyReference.cache
+D:\Vodnik\Оптимізація обчислень\Labka2\lab2\obj\Debug\lab2.csproj.CoreCompileInputs.cache
+D:\Vodnik\Оптимізація обчислень\Labka2\lab2\obj\Debug\lab2.exe
+D:\Vodnik\Оптимізація обчислень\Labka2\lab2\obj\Debug\lab2.pdb
